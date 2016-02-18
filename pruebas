@@ -1,0 +1,18 @@
+Player 1 
+balls -> 0,1,2,3
+
+Player 2
+balls -> 0,1,2,3
+
+Game
+score -> [15 , 40]
+
+1.- El marcador es cero a cero
+2.- Un jugador tiene 15 pts
+3. un jugador tiene 30
+4. un jugador tiene 40
+5. un jugador tiene 40 y anota (gana)
+6. Ambos jugadores tienen 40 -> deuce
+7. Ambos jugadores tienen 40 y uno anota -> Advantage
+7. Ambos jugadores tienen 40 y el otro anota -> deuce
+8. Un jugador tiene advantage y anota (gana)
